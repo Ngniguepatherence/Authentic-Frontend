@@ -20,7 +20,7 @@ primevue: {
     apiSecret: '123',
     // Keys within public are also exposed client-side
     public: {
-      backendUrl: 'http://localhost:5000'
+      backendUrl: 'https://api.vvims.site/authentic'
     },
     firebaseConfig: {
 
